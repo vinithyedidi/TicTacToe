@@ -404,6 +404,5 @@ public class TicTacToe {
 		}
 		System.out.println("\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n      It's a draw!\n*\n*\n*\n*\n*\n*\n*\n*\n*");
 		System.exit(0);
-
 	}
 }
