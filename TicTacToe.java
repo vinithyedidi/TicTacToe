@@ -339,7 +339,7 @@ public class TicTacToe {
 	 *    a. If the game is won, the console will output "X/O won the game!" The program will then terminate
 	 *    b. If the game is not won, the console will continue accepting inputs.
 	 * 4. If the game comes to a draw after 9 plays, the console will display "It's a draw!" and then the program will terminate.
-   *
+  	 *
 	 */
 
 	public static void main(String args[])  {
