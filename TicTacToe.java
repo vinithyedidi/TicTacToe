@@ -1,7 +1,9 @@
 package ticTacToe;
 
 /*
-*
+* Author: Vinith Yedidi
+* Version: 1.0.0
+* Date: 4/20/20
 */
 
 import java.util.Scanner;
