@@ -1,4 +1,6 @@
 # TicTacToe
+ *** There is now a new version of this available in Python (see "Releases") ***
+ 
  A game of TicTacToe in the console.
 
  The user inputs their move into the board by inputting a number from 1 to 9. These numbers correspond to the following places on the board:
