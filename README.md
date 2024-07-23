@@ -1,5 +1,6 @@
 # TicTacToe
-### ** There is now a new version of this available in Python ("TicTacToe.py" or see Releases) **#
+### ** There is now a new version of this available in Python ("TicTacToe.py" or see Releases) **
+### ** There is now a new version of this available in C++ ("TicTacToe.cpp") **
  
  A game of TicTacToe in the console.
 
